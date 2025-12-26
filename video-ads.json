@@ -1,0 +1,17 @@
+    {
+  "sites": [
+
+    {
+      "key": "lzzy",
+      "name": "量子资源(视频广告)",
+      "api": "https://cj.lziapi.com/api.php/provide/vod/at/json/",
+      "active": true
+    },
+    {
+      "key": "ffzy",
+      "name": "非凡资源(视频广告)",
+      "api": "https://api.ffzyapi.com/api.php/provide/vod/at/json/",
+      "active": true
+    }
+      ]
+}

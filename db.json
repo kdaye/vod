@@ -1,0 +1,35 @@
+{
+  "sites": [
+
+    {
+      "key": "snzy",
+      "name": "索尼资源",
+      "api": "https://suoniapi.com/api.php/provide/vod/at/json/",
+      "active": true
+    },
+    {
+      "key": "bfzy",
+      "name": "暴风资源",
+      "api": "https://bfzyapi.com/api.php/provide/vod/at/json/",
+      "active": true
+    },
+    {
+      "key": "hnzy",
+      "name": "红牛资源",
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/at/json/",
+      "active": true
+    },
+    {
+      "key": "dbzy",
+      "name": "豆瓣资源(官源纯净)",
+      "api": "https://caiji.dbzy.tv/api.php/provide/vod/at/json/",
+      "active": true
+    },
+    {
+      "key": "bdzy",
+      "name": "百度资源(稳定)",
+      "api": "https://api.apibdzy.com/api.php/provide/vod/at/json/",
+      "active": true
+    }
+  ]
+}
