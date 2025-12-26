@@ -1,7 +1,7 @@
 {
   "sites": [
    {
-      "key": "snzy",
+      "key": "dytt",
       "name": "电影天堂",
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/",
       "active": true
