@@ -1,6 +1,11 @@
 {
   "sites": [
-
+   {
+      "key": "snzy",
+      "name": "电影天堂",
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/",
+      "active": true
+    },
     {
       "key": "snzy",
       "name": "索尼资源",
