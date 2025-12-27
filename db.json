@@ -66,5 +66,48 @@
       "api": "https://api.apibdzy.com/api.php/provide/vod/at/json/",
       "active": true
     }
+,
+    {
+      "key": "ukzy2",
+      "name": "U酷资源",
+      "api": "https://api.ukuapi.com/api.php/provide/vod/",
+      "active": true
+    },
+    {
+      "key": "tpzy",
+      "name": "淘片资源",
+      "api": "https://taopianapi.com/home/cjapi/as/mc10/vod/json",
+      "active": true
+    },
+    {
+      "key": "789pan",
+      "name": "789盘",
+      "api": "https://www.rrvipw.com/api.php/provide/vod/",
+      "active": true
+    },
+    {
+      "key": "aikuys",
+      "name": "爱酷影视",
+      "api": "https://www.zhanlangbu.com/api.php/provide/vod/",
+      "active": true
+    },
+    {
+      "key": "ltzy",
+      "name": "龙腾资源",
+      "api": "http://175.178.7.35:2020/api.php/provide/vod/",
+      "active": true
+    },
+    {
+      "key": "asmr",
+      "name": "ASMR",
+      "api": "http://www.asmr19.in/api.php/provide/vod/",
+      "active": true
+    },
+    {
+      "key": "lehuo",
+      "name": "乐活影视",
+      "api": "https://lehootv.com/api.php/provide/vod/",
+      "active": true
+    }
   ]
 }
