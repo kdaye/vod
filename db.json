@@ -7,12 +7,6 @@
       "active": true
     },
     {
-      "key": "ysgc",
-      "name": "影视工厂",
-      "api": "https://cj.lziapi.com/api.php/provide/vod/",
-      "active": true
-    },
-    {
       "key": "ukzy",
       "name": "u酷",
       "api": "https://api.ukuapi88.com/api.php/provide/vod",

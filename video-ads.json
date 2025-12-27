@@ -3,7 +3,7 @@
 
     {
       "key": "lzzy",
-      "name": "量子资源(视频广告)",
+      "name": "量子资源",
       "api": "https://cj.lziapi.com/api.php/provide/vod/at/json/",
       "active": true
     },
@@ -14,8 +14,14 @@
         "detail": "http://caiji.dyttzyapi.com"
     },
     {
+      "key": "ysgc",
+      "name": "影视工厂",
+      "api": "https://cj.lziapi.com/api.php/provide/vod/",
+      "active": true
+    },
+    {
       "key": "ffzy",
-      "name": "非凡资源(视频广告)",
+      "name": "非凡资源",
       "api": "https://api.ffzyapi.com/api.php/provide/vod/at/json/",
       "active": true
     }
