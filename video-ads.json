@@ -8,6 +8,12 @@
       "active": true
     },
     {
+       "key": "dytt",
+        "name": "电影天堂",
+        "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+        "detail": "http://caiji.dyttzyapi.com"
+    },
+    {
       "key": "ffzy",
       "name": "非凡资源(视频广告)",
       "api": "https://api.ffzyapi.com/api.php/provide/vod/at/json/",
