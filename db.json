@@ -19,11 +19,11 @@
       "active": true
     },
     {
-      "key": "ryzy",
-      "name": "如意资源",
-      "api": "https://cj.rycjapi.com/api.php/provide/vod/at/json/",
+      "key": "jszy",
+      "name": "极速资源",
+      "api": "https://jszyapi.com/api.php/provide/vod/at/json/",
       "active": true
-    },
+    },  
     {
       "key": "snzy",
       "name": "索尼资源",

@@ -20,6 +20,12 @@
       "active": true
     },
     {
+      "key": "ryzy",
+      "name": "如意资源",
+      "api": "https://cj.rycjapi.com/api.php/provide/vod/at/json/",
+      "active": true
+    },
+    {
       "key": "ffzy",
       "name": "非凡资源",
       "api": "https://api.ffzyapi.com/api.php/provide/vod/at/json/",
