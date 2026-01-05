@@ -26,6 +26,12 @@
       "active": true
     },
     {
+      "key": "bfzy",
+      "name": "暴风资源",
+      "api": "https://bfzyapi.com/api.php/provide/vod/at/json/",
+      "active": true
+    },
+    {
       "key": "ffzy",
       "name": "非凡资源",
       "api": "https://api.ffzyapi.com/api.php/provide/vod/at/json/",
